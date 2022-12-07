@@ -1,0 +1,16 @@
+{
+  "name": "cypress-ui-testing",
+  "version": "1.0.0",
+  "description": "Cypress UI Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open",
+    "test-video": "npx cypress run"
+  },
+  "author": "dwija",
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "cypress": "^11.2.0"
+  }
+}
