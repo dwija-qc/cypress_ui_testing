@@ -6,5 +6,7 @@ yarn install
 ```
 
 ## How to Run?
+```
 npx cypress open
 npx cypress run
+```
